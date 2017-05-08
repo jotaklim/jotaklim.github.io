@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TotalSoft</title>
-    <link>http://totalsoft.azurewebsites.net/index.xml</link>
+    <link>https://jotaklim.github.io/index.xml</link>
     <description>Recent content on TotalSoft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://totalsoft.azurewebsites.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jotaklim.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/about/</link>
+      <link>https://jotaklim.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/about/</guid>
+      <guid>https://jotaklim.github.io/about/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -37,10 +37,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/resources/</link>
+      <link>https://jotaklim.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/resources/</guid>
+      <guid>https://jotaklim.github.io/resources/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -64,10 +64,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/resources/accounting-standards/</link>
+      <link>https://jotaklim.github.io/resources/accounting-standards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/resources/accounting-standards/</guid>
+      <guid>https://jotaklim.github.io/resources/accounting-standards/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -90,10 +90,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/resources/information-security/</link>
+      <link>https://jotaklim.github.io/resources/information-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/resources/information-security/</guid>
+      <guid>https://jotaklim.github.io/resources/information-security/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -116,10 +116,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/resources/what-is-erp/</link>
+      <link>https://jotaklim.github.io/resources/what-is-erp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/resources/what-is-erp/</guid>
+      <guid>https://jotaklim.github.io/resources/what-is-erp/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -142,10 +142,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/solutions/</link>
+      <link>https://jotaklim.github.io/solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/solutions/</guid>
+      <guid>https://jotaklim.github.io/solutions/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -172,10 +172,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/solutions/charisma/</link>
+      <link>https://jotaklim.github.io/solutions/charisma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/solutions/charisma/</guid>
+      <guid>https://jotaklim.github.io/solutions/charisma/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -203,10 +203,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/terms-and-conditions/</link>
+      <link>https://jotaklim.github.io/terms-and-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/terms-and-conditions/</guid>
+      <guid>https://jotaklim.github.io/terms-and-conditions/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -230,10 +230,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/testimonials/</link>
+      <link>https://jotaklim.github.io/testimonials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/testimonials/</guid>
+      <guid>https://jotaklim.github.io/testimonials/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -257,10 +257,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/testimonials/gecapital/</link>
+      <link>https://jotaklim.github.io/testimonials/gecapital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/testimonials/gecapital/</guid>
+      <guid>https://jotaklim.github.io/testimonials/gecapital/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -285,10 +285,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/testimonials/raiffeisen/</link>
+      <link>https://jotaklim.github.io/testimonials/raiffeisen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/testimonials/raiffeisen/</guid>
+      <guid>https://jotaklim.github.io/testimonials/raiffeisen/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
@@ -313,10 +313,10 @@
     
     <item>
       <title></title>
-      <link>http://totalsoft.azurewebsites.net/testimonials/tbicredit/</link>
+      <link>https://jotaklim.github.io/testimonials/tbicredit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://totalsoft.azurewebsites.net/testimonials/tbicredit/</guid>
+      <guid>https://jotaklim.github.io/testimonials/tbicredit/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
 
